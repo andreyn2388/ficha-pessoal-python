@@ -1,19 +1,18 @@
-# Ficha Pessoal em Python 🐍
+# Ficha Pessoal em Python
 
-Projeto iniciante em Python criado para praticar conceitos básicos da linguagem.
+Projeto simples em Python desenvolvido para praticar conceitos iniciais da linguagem.
 
-## Conceitos utilizados
-- Variáveis
-- print()
-- Organização de código
+## 🧠 O que foi aprendido
+- Uso de variáveis
+- Saída de dados com print
+- Conversão de tipos com str
+- Organização básica de código
+- Versionamento com Git e GitHub
 
-## Como executar o projeto
-1. Instale o Python
-2. Execute o comando no terminal:
+## 🛠️ Tecnologias
+- Python
+- Git
+- GitHub
 
-```bash
-python ficha_pessoal.py
-
-Autor
-
-Projeto criado por Andrey Mendes.
+## 🚀 Objetivo
+Projeto criado com foco em aprendizado e prática dos fundamentos de programação em Python.

@@ -1,18 +1,20 @@
 # Ficha Pessoal em Python
 
-Projeto simples em Python desenvolvido para praticar conceitos iniciais da linguagem.
+Este é um projeto simples em Python que desenvolvi como parte dos meus estudos iniciais em programação.  
+A ideia foi praticar conceitos básicos da linguagem de forma prática e organizada.
 
-## 🧠 O que foi aprendido
-- Uso de variáveis
-- Saída de dados com print
-- Conversão de tipos com str
-- Organização básica de código
-- Versionamento com Git e GitHub
+##  O que aprendi com esse projeto
+- Criar e utilizar variáveis
+- Exibir informações na tela usando `print`
+- Converter dados para texto com `str`
+- Manter o código organizado e legível
+- Utilizar Git e GitHub para versionar e publicar o projeto
 
-## 🛠️ Tecnologias
+## Tecnologias utilizadas
 - Python
 - Git
 - GitHub
 
-## 🚀 Objetivo
-Projeto criado com foco em aprendizado e prática dos fundamentos de programação em Python.
+##  Objetivo do projeto
+Este projeto foi criado com o objetivo de consolidar os fundamentos da programação em Python e registrar minha evolução nos estudos, servindo também como parte do meu portfólio inicial.
+
